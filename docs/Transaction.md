@@ -14,7 +14,7 @@ nav_order: 12
 **Note:** It is essential to save the project after creating a transaction. Failure to do so may result in the resource not being available later. 
  * **Producer:** 
 
- ![](../../assets/images/ Producer.png)
+ ![](../../assets/images/Producer.png)
 {: style="text-align:center;"}
  *  Select a connector from the list of connectors available from the dropdown.
 There are at present three connectors available: Kafka, EventHub, Database, ElasticSearch, and InfluxDb.
