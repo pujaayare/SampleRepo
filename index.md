@@ -5,7 +5,7 @@ nav_order: 1
 ---
 # **FactoCloudConnect**
 {: style="text-align:center;"}
-
+---
 ![](../../assets/images/optebiz-logo.png)
 {: style="text-align:center;"}
 <dl>
@@ -18,3 +18,4 @@ nav_order: 1
   <dt>Version</dt>
   <dd>1.3</dd>
 </dl>
+---
