@@ -7,9 +7,8 @@ nav_order: 1
 {: style="text-align:center;"}
 ![](../../assets/images/optebiz-logo.png)
 {: style="text-align:center;"}
-
 <dl>
-   <dt>Author</dt>
+  <dt>Author</dt>
   <dd>Optebiz</dd>
   <dt>Creation Date</dt>
   <dd>Jun 24, 2020</dd>
