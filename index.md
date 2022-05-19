@@ -2,10 +2,10 @@
 layout: default
 title: Home
 nav_order: 1
+permalink: /
 ---
 # **FactoCloudConnect**
 {: style="text-align:center;"}
-
 ![](../../assets/images/optebiz-logo.png)
 {: style="text-align:center;"}
 
