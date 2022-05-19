@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Example
-nav_order:10
+nav_order: 10
 ---
 # Create Transaction:
 Create Transaction for Kafka with JSON Data Format
@@ -112,8 +112,4 @@ Deleting a transaction is a two-step process:
 ![](../../assets/images/deletetransaction.png)
 {: style="text-align:center;"}
 * Step 2: Right-click on that transaction node in Project Browser Tree under FactoCloudConnect and select the delete option to remove that node 
-
-
-
-
 
