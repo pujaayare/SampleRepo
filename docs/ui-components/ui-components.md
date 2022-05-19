@@ -2,11 +2,29 @@
 layout: default
 title: UI Components
 nav_order: 3
-has_children: true
-permalink: /docs/ui-components
+permalink: /
 ---
 
-# UI Components
+ *  On the Ignition gateway, the user needs to create a real-time  standard tag provider named FactoCloudConnect. This provider stores the default settings.
+ *  Once the tag provider is created, the module file will have to be uploaded on Ignition
 
-To make it as easy as possible to write documentation in plain Markdown, most UI components are styled using default Markdown elements with few additional CSS classes needed.
-{: .fs-6 .fw-300 }
+ ![](../../assets/images/moduleinstallation.png)
+{: style="text-align:center;"}
+ *  FactoCloudConnect Producer uses  Apache ActiveMQ Artemis Server. It is an open-source asynchronous messaging system. If the user wants to change any of the default settings, these can be changed via 
+ the Queue management option
+
+  ![](../../assets/images/queuemanagement.png)
+{: style="text-align:center;"}
+ *  After uploading the module, the next step is to create a connection for the connectors 
+
+  ![](../../assets/images/afterinstallation.png)
+{: style="text-align:center;"}
+ *  On choosing “Create new Connector..”, the category for the connector needs to be specified.
+
+ ![](../../assets/images/connectors.png)
+{: style="text-align:center;"}
+ *  Once the proper category is chosen, the required information can be passed to complete connector creation.
+
+ ![](../../assets/images/kafkaconnection.png)
+{: style="text-align:center;"}
+
