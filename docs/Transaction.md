@@ -30,7 +30,7 @@ There are at present three connectors available: Kafka, EventHub, Database, Elas
 
  ![](../../assets/images/connection1.png)
 {: style="text-align:center;"}
- *  Default values of Config and Trigger sections can be customized
+ *  Default values of Config and Trigger sections can be customized<br>
  **Consumer:** This will receive/consume data from the Connector source and overwrite to tag values
  
  ![](../../assets/images/consumer.png)
