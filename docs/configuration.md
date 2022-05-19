@@ -1,21 +1,16 @@
 ---
 layout: default
-title: Configuration
+title: Introduction
 nav_order: 2
 ---
+# Introduction
 
-# Configuration
-{: .no_toc }
+## Overview: 
+* **FactoCloudConnect** is advanced data capture, processing, and data streaming application capable of pushing the data between different data storage systems like **Kafka, traditional databases, Event Hub, ElasticSearch, and InfluxDb**.
 
-Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's \_config.yml file.
-{: .fs-6 .fw-300 }
+* This version of the application is developed for Ignition (Inductive Automation®) where the data points are configured as tags. The data is captured from these tags deployed in the tag folder. 
 
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
+* The application is capable of reading data in different formats like JSON, AVRO, CSV, and SparkplugB. For data push, it has multiple options available like line timer, tag change trigger, etc. 
 ---
 
 View this site's [\_config.yml](https://github.com/just-the-docs/just-the-docs/tree/main/_config.yml) file as an example.
