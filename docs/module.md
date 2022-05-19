@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Prerequisites of the module
-nav_order: 10
+nav_order: 11
 ---
 # Prerequisites of the module
  *  On the Ignition gateway, the user needs to create a real-time  standard tag provider named FactoCloudConnect. This provider stores the default settings.
