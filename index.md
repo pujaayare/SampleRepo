@@ -7,6 +7,7 @@ permalink: /
 ---
 # **FactoCloudConnect**
 {: style="text-align:center;"}
+
 ![](../../assets/images/optebiz-logo.png)
 {: style="text-align:center;"}
 
