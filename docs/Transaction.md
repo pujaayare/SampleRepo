@@ -8,10 +8,10 @@ nav_order: 12
 
  ![](../../assets/images/newtransaction.png)
 {: style="text-align:center;"}
- *  On the Form, select connector Type, either Producer or Consumer.
-**Producer:** This will push data to the selected Connector. FactoCloudConnect uses ActiveMQ Artemis Server.
-**Consumer:** This will receive/consume data from the Connector source and overwrite to tag values.
-**Note:** It is essential to save the project after creating a transaction. Failure to do so may result in the resource not being available later. 
+ *  On the Form, select connector Type, either Producer or Consumer.<br>
+**Producer:** This will push data to the selected Connector. FactoCloudConnect uses ActiveMQ Artemis Server.<br>
+**Consumer:** This will receive/consume data from the Connector source and overwrite to tag values.<br>
+**Note:** It is essential to save the project after creating a transaction. Failure to do so may result in the resource not being available later.<br> 
  * **Producer:** 
 
  ![](../../assets/images/Producer.png)
