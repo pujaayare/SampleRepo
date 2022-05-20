@@ -12,7 +12,7 @@ nav_order: 1
 .parent {
   text-align: center;
 }
-.parent > ul {
+.parent > dl {
   display: inline-block;
 }
 <div class="parent">
