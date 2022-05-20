@@ -19,6 +19,6 @@ nav_order: 1
   <dt>Version</dt>
   <dd>1.3</dd>
 </dl>
- {: style="display: inline-block;text-align:center;"} 
+ {: style="text-align:center;"} 
 
 
