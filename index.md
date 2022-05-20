@@ -8,6 +8,14 @@ nav_order: 1
 
 ![](./assets/images/optebiz-logo.png)
 {: style="text-align:center;"} 
+
+.parent {
+  text-align: center;
+}
+.parent > ul {
+  display: inline-block;
+}
+<div class="parent">
 <dl>
   <dt>Author</dt>
   <dd>Optebiz</dd>
@@ -18,4 +26,5 @@ nav_order: 1
   <dt>Version</dt>
   <dd>1.3</dd>
 </dl>
+</div>
 
