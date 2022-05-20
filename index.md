@@ -19,6 +19,10 @@ nav_order: 1
   <dt>Version</dt>
   <dd>1.3</dd>
 </dl>
-
-
+<center>
+  <p>Author : Optebiz</p>
+  <p>Creation Date : Jun 24, 2020</p>
+  <p>Last Updated : Feb 11, 2022</p>
+  <p>Version : 1.3</p>
+</center>
 
