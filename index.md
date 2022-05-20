@@ -9,14 +9,14 @@ nav_order: 1
 ![](./assets/images/optebiz-logo.png)
 {: style="text-align:center;"} 
 
-<dl style="text-align:right;">
-  <dt>Author</dt>
+<dl>
+  <dt style="text-align:center;">Author</dt>
   <dd>Optebiz</dd>
-  <dt>Creation Date</dt>
+  <dt style="text-align:center;">Creation Date</dt>
   <dd>Jun 24, 2020</dd>
-  <dt>Last Updated</dt>
+  <dt style="text-align:center;">Last Updated</dt>
   <dd>Feb 11, 2022</dd>
-  <dt>Version</dt>
+  <dt style="text-align:center;">Version</dt>
   <dd>1.3</dd>
 </dl>
 
