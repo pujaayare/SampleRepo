@@ -9,7 +9,7 @@ nav_order: 1
 ![](./assets/images/optebiz-logo.png)
 {: style="text-align:center;"} 
 
-<dl>
+<dl style="text-align:center;">
   <dt style="text-align:center;">Author</dt>
   <dd>Optebiz</dd>
   <dt style="text-align:center;">Creation Date</dt>
