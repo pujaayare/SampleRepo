@@ -3,7 +3,7 @@ layout: default
 title: Glossary
 nav_order: 3
 ---
-# Glossary
+# Glossary <br>
 * **CONNECTOR_TYPE:** "Type of connector: Defines if the user wants to push the data to the connector or consume the data from the connector"
 * **CONNECTORS:** "Different Connectors, where users want to push the data or to consume data from"
 * **CONNECTION_NAME:** "Connection names of configurations saved for selected connector"
